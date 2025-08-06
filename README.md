@@ -27,7 +27,20 @@ This project is a personal data analysis of my Spotify streaming habits over the
 
 ---
 
-<pre> ## 📁 Folder Structure ```plaintext spotify-wrapped-analysis/ │ ├── notebooks/ │ └── spotify_wrapped.ipynb # Jupyter Notebook: data prep & export ├── sql/ │ └── spotify_cleaning.sql # SQL cleaning & feature extraction ├── data/ │ └── sample_streaming_data.json # Sample data (sanitized) ├── images/ │ └── dashboard_screenshot.png # Optional: static preview of dashboard └── README.md ``` </pre>
+📁 Folder Structure 
+```
+spotify-wrapped-analysis/
+│
+├── notebooks/
+│   └── spotify_wrapped.ipynb         # Jupyter Notebook: data prep & export
+├── sql/
+│   └── spotify_cleaning.sql          # SQL cleaning & feature extraction
+├── data/
+│   └── sample_streaming_data.json    # Sample data (sanitized)
+├── images/
+│   └── dashboard_screenshot.png      # Optional: static preview of dashboard
+└── README.md
+```
 
 
 ---
